@@ -4,4 +4,6 @@
 **/*.webp
 **/*.gif
 !images/site-logo-default.jpg
-!images/app
+!images/app/favicon.ico
+!images/app/logo.png
+!images/app/preloader.png
