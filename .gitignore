@@ -1,0 +1,7 @@
+**/*.json
+**/*.png
+**/*.jpg
+**/*.webp
+**/*.gif
+!images/site-logo-default.jpg
+!images/app
