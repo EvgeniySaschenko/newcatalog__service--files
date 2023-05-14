@@ -3,7 +3,7 @@
 **/*.jpg
 **/*.webp
 **/*.gif
-!images/site-logo-default.jpg
+!images/default-image.png
 !images/app/**/favicon.ico
 !images/app/**/logo.png
 !images/app/**/preloader.png
